@@ -11,7 +11,7 @@ use vars qw($AUTOLOAD);
 
 use strict;
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 sub AUTOLOAD {
 	my $self = shift;

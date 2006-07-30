@@ -5,7 +5,7 @@ POE::Component::Client::Telnet can be installed the usual ways:
 
 Through the CPAN shell:
 
-	perl -MCPAN -e 'install "POE::Component::BitTorrent"'
+	perl -MCPAN -e 'install "POE::Component::Client::Telnet"'
 
 Or by downloading it and running the usual commands:
 
